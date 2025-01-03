@@ -1,0 +1,304 @@
+2024-12-31T03:11:56.532Z [INFO]: Server running on http://localhost:3333
+2024-12-31T03:12:07.535Z [INFO]: POST /api/users/login
+2024-12-31T03:12:23.895Z [INFO]: POST /api/users/logins
+2024-12-31T03:17:55.798Z [INFO]: GET /auth/google
+2024-12-31T03:18:18.614Z [INFO]: GET /api//auth/google
+2024-12-31T03:18:24.485Z [INFO]: GET /api/auth/google
+2024-12-31T03:18:53.433Z [INFO]: GET /api/users/auth/google
+2024-12-31T03:18:58.236Z [INFO]: GET /api/user/auth/google
+2024-12-31T03:19:02.721Z [INFO]: GET /auth/google
+2024-12-31T16:09:20.490Z [INFO]: Server running on http://localhost:3333
+2024-12-31T16:10:08.557Z [INFO]: GET /auth/google
+2024-12-31T16:10:14.160Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvrNmpOzRvWBqIhhoAk8yY421BgXfOo-i7E_j0_mEtFryIIV85VOrsYI_pF9fHSCA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
+2024-12-31T16:10:14.748Z [INFO]: GET /favicon.ico
+2024-12-31T16:19:16.457Z [INFO]: Server running on http://localhost:3333
+2024-12-31T17:06:35.186Z [INFO]: GET /auth/google
+2024-12-31T17:06:37.817Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtefdsahmYzi0qghed3EhLSRJ_0rou5P4RZwbSK9x1z_u-ejnDTagCB5XtatL2hUQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:06:38.608Z [INFO]: GET /favicon.ico
+2024-12-31T17:06:48.097Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtuJifjEivGAWqSOX39huPX5Wp7ubRAdGw8Fwxz-uSQZjDjWff90DXGrFqrR4mr_A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:07:03.398Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtuJifjEivGAWqSOX39huPX5Wp7ubRAdGw8Fwxz-uSQZjDjWff90DXGrFqrR4mr_A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:07:03.487Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrtuJifjEivGAWqSOX39huPX5Wp7ubRAdGw8Fwxz-uSQZjDjWff90DXGrFqrR4mr_A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - Bad Request
+2024-12-31T17:07:09.329Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrunPdXo3QHAb62neZym_DDsNzQ-VCMhfFGwri7M3G4RJSLZXLdvFOiVkGCMR8GGLA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:08:03.347Z [INFO]: GET /auth/google
+2024-12-31T17:08:06.053Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrssf1Jd87b_yBHpey1zeIZGl8u7bUmpLU7-wEE2Jembtp1JZ7ChT1SbSOC3iJFXwQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:08:06.699Z [INFO]: GET /favicon.ico
+2024-12-31T17:09:13.247Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv4IlhhkOzIRRlRfFKZ-t5W55QP1IZTI2cmYAwVGyWQGuZOZAOHOsJgVm3W_YJk0w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:09:15.601Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv4IlhhkOzIRRlRfFKZ-t5W55QP1IZTI2cmYAwVGyWQGuZOZAOHOsJgVm3W_YJk0w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:09:15.654Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrv4IlhhkOzIRRlRfFKZ-t5W55QP1IZTI2cmYAwVGyWQGuZOZAOHOsJgVm3W_YJk0w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2024-12-31T17:09:19.439Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtvrfkSSBDl1dE0nmrV1dzpCB3TEAUtH-g1ryxWB0dZeo2nGwXc2D9o3CkRSvKSHA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:09:31.852Z [INFO]: GET /auth/google
+2024-12-31T17:09:35.018Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvMldCEKG9ODyl9sktEFyfpwn99OdKdwpBLDpUlUX2GBpvFE0dFBXk-1Ty2SKsWoA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:09:50.770Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvMldCEKG9ODyl9sktEFyfpwn99OdKdwpBLDpUlUX2GBpvFE0dFBXk-1Ty2SKsWoA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:09:50.878Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrvMldCEKG9ODyl9sktEFyfpwn99OdKdwpBLDpUlUX2GBpvFE0dFBXk-1Ty2SKsWoA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2024-12-31T17:09:55.762Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruSP0xu1Bmf0gu8Fsj6koNIHxRnyTcG2u1qE6E6GJcMyoHWhxz_Mlt197RJrpMbSQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:11:59.025Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsA3BBWCYIVKGZe9LTXPD3BB8A282D85_tPgh98j0NtaKYJeoHMUyOMTfTKxaUuRA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:11:59.683Z [INFO]: GET /favicon.ico
+2024-12-31T17:12:22.994Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsA3BBWCYIVKGZe9LTXPD3BB8A282D85_tPgh98j0NtaKYJeoHMUyOMTfTKxaUuRA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:12:23.116Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsA3BBWCYIVKGZe9LTXPD3BB8A282D85_tPgh98j0NtaKYJeoHMUyOMTfTKxaUuRA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2024-12-31T17:12:23.498Z [INFO]: GET /favicon.ico
+2024-12-31T17:13:24.046Z [INFO]: GET /auth/google
+2024-12-31T17:13:26.608Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvwez15-b3oXro3vRsnoAXDHogQHtl7PJqOd0M57cXmHPV6ekT56m7KuLJ4l6n2ag&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:14:43.267Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtgMkGPLS4z2OAwK6RgVQqkyzFjYK_EUVq-vmmEUgp1HQgTUHKIJc9EdrKKsnilcQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:17:38.212Z [INFO]: GET /auth/google
+2024-12-31T17:17:41.347Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt_13mQ3NdlPzcB-AQ2Xon-yzQOGm8eE-xXlGFDfJXZB4XRIfGR9y69A7LBkNLxFw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:18:12.424Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt_13mQ3NdlPzcB-AQ2Xon-yzQOGm8eE-xXlGFDfJXZB4XRIfGR9y69A7LBkNLxFw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:18:12.520Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrt_13mQ3NdlPzcB-AQ2Xon-yzQOGm8eE-xXlGFDfJXZB4XRIfGR9y69A7LBkNLxFw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none - Bad Request
+2024-12-31T17:18:17.152Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruTTrzWFOHlAgy3ETI5_qmGfc2odAyOTctaPwlykf9jONqAVBN8gozLgWh84oRCNQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:18:57.813Z [INFO]: GET /auth/google
+2024-12-31T17:19:00.742Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvny8KvZwWWBGjlrIRnQ2l8C9rTFKOVt2ht0vcZBYUFTZbcyndstCDNY7f5ixyvBA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:20:32.345Z [INFO]: GET /auth/google
+2024-12-31T17:20:34.960Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsuP2dJkyHs2SMYp_rVrdN3sEcpxAzASz_4D_PkyxolmuUE8lO15DTstlQfz7j0og&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:20:35.693Z [INFO]: GET /favicon.ico
+2024-12-31T17:21:24.295Z [INFO]: GET /auth/google
+2024-12-31T17:21:27.115Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtQGKdopFHy0w0SvaQWsdyZVRnZhwyxOTPPiVnWZldmDZSF8OqzESls1nXRag2PBw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:22:07.375Z [INFO]: GET /auth/google
+2024-12-31T17:22:09.726Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruNtF_AhpiBAgCl5MX-OeoPIx2pN_bLOaL5PyPGWEJTw7htOR5syDrFU0MgCnMNNw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:23:33.131Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrubEglsU_NizDECTSoegaA-TZbO2Ic5tDcuOdhnRtn8Xlc9gAMWyoLni7hBNXKK6Q&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:23:36.879Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrubEglsU_NizDECTSoegaA-TZbO2Ic5tDcuOdhnRtn8Xlc9gAMWyoLni7hBNXKK6Q&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:23:36.933Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrubEglsU_NizDECTSoegaA-TZbO2Ic5tDcuOdhnRtn8Xlc9gAMWyoLni7hBNXKK6Q&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2024-12-31T17:23:42.089Z [INFO]: GET /auth/google
+2024-12-31T17:23:44.444Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvjWdGPjtp6d-3LSi3b4YnguCNbF9w45s7pR6yKPL0uuWuDlfxovJD23RIY1t6Xxg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:23:57.181Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvjWdGPjtp6d-3LSi3b4YnguCNbF9w45s7pR6yKPL0uuWuDlfxovJD23RIY1t6Xxg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:23:57.270Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrvjWdGPjtp6d-3LSi3b4YnguCNbF9w45s7pR6yKPL0uuWuDlfxovJD23RIY1t6Xxg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2024-12-31T17:24:00.861Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv2hJ8g1lfR8jcDTFwmzS-PkFOKLTDavqstSdlBEtRTj2xoddvqAAPtT_z51qEojQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:24:34.370Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv2hJ8g1lfR8jcDTFwmzS-PkFOKLTDavqstSdlBEtRTj2xoddvqAAPtT_z51qEojQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:24:34.460Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrv2hJ8g1lfR8jcDTFwmzS-PkFOKLTDavqstSdlBEtRTj2xoddvqAAPtT_z51qEojQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2024-12-31T17:24:38.649Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrucNdc6-qZnJ1p_oFa2ur1if9YoVm_N13GLhSXDl26QOGVrks4aobtOcEErUy-CwQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:24:50.754Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrs4vANo_prcFXAxtAyzIpkbuX27VCZKS1Q_8iO4pzQvU8I91HkwVm4oEIxGTQdw7w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:34:28.077Z [INFO]: OPTIONS /api/login
+2024-12-31T17:34:33.605Z [INFO]: GET /auth/google
+2024-12-31T17:34:36.588Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrunbum__sZsOQ8mvbtj2PMU4IazryojuRkBY_VT2_TLXdiYgaR73kHU8z3Nzidanw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:35:23.419Z [INFO]: Server running on http://localhost:3333
+2024-12-31T17:35:28.098Z [INFO]: GET /auth/google
+2024-12-31T17:35:30.618Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtZRY6UzjU7aqfspUpgrRPGHDWw77pGk0gbP40EK0BgH_HRo5M8o-kQL6lQTKJRVw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:35:30.843Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrtZRY6UzjU7aqfspUpgrRPGHDWw77pGk0gbP40EK0BgH_HRo5M8o-kQL6lQTKJRVw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - jwtToken is not defined
+2024-12-31T17:36:06.027Z [INFO]: Server running on http://localhost:3333
+2024-12-31T17:36:09.552Z [INFO]: GET /auth/google
+2024-12-31T17:36:13.458Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt14N_oD4uU-5xPW3Nk-OtQ82S1pe_TMrrqMCHN0Fov-sMOwFS6jENR8XwDZ6K8OQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:36:13.694Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrt14N_oD4uU-5xPW3Nk-OtQ82S1pe_TMrrqMCHN0Fov-sMOwFS6jENR8XwDZ6K8OQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2024-12-31T17:36:49.296Z [INFO]: GET /auth/google
+2024-12-31T17:36:51.929Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRru_DN1quGJprO3FEzwnYIKKChgv-3vbLB03dJI5XIeJtqY-NVHNt44kM10Jf08Qrw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:36:52.216Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRru_DN1quGJprO3FEzwnYIKKChgv-3vbLB03dJI5XIeJtqY-NVHNt44kM10Jf08Qrw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2024-12-31T17:40:29.943Z [INFO]: Server running on http://localhost:3333
+2024-12-31T17:40:32.903Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsjexdZZvGn7OpLHtYErwY8U0pzeKxKlP-1vTifPkUyUDZZavGwJfcTXtpCdA447w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2024-12-31T17:40:33.183Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsjexdZZvGn7OpLHtYErwY8U0pzeKxKlP-1vTifPkUyUDZZavGwJfcTXtpCdA447w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - req.redirect is not a function
+2024-12-31T17:40:50.592Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsA1P6LeA50h7SvOif0MKzoqjkMGCa4QD7F9WA23T0Wq5NMjQ_9ekQia0CsdzOxhw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:40:50.847Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsA1P6LeA50h7SvOif0MKzoqjkMGCa4QD7F9WA23T0Wq5NMjQ_9ekQia0CsdzOxhw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - req.redirect is not a function
+2024-12-31T17:40:53.422Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsA1P6LeA50h7SvOif0MKzoqjkMGCa4QD7F9WA23T0Wq5NMjQ_9ekQia0CsdzOxhw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:40:53.475Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsA1P6LeA50h7SvOif0MKzoqjkMGCa4QD7F9WA23T0Wq5NMjQ_9ekQia0CsdzOxhw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - Bad Request
+2024-12-31T17:40:56.202Z [INFO]: Server running on http://localhost:3333
+2024-12-31T17:41:00.025Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvaFYyPy36mwMx52Fqdnr_2mLaGaga1jXfy1H3ArVP0u5Vpqfw-ona4pCD-PGLyng&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2024-12-31T17:41:00.268Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrvaFYyPy36mwMx52Fqdnr_2mLaGaga1jXfy1H3ArVP0u5Vpqfw-ona4pCD-PGLyng&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2024-12-31T17:41:38.309Z [INFO]: Server running on http://localhost:3333
+2024-12-31T17:41:41.320Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrupr3sRPK0cadCaR8aiugZtl4bwGt-DC8iJLoQfksCvGzczvgTl07agTriYZabYUQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2024-12-31T17:41:41.544Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrupr3sRPK0cadCaR8aiugZtl4bwGt-DC8iJLoQfksCvGzczvgTl07agTriYZabYUQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2025-01-02T15:21:35.709Z [INFO]: Server running on http://localhost:3333
+2025-01-02T15:21:55.785Z [INFO]: GET /auth/google
+2025-01-02T15:21:58.262Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtAq_HMU7WNnUg7MCx1puV8PQYAH4-FlCTWMbeD7RdYuOAszEZ7XEAGCX_h9AyF6A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T15:21:58.614Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrtAq_HMU7WNnUg7MCx1puV8PQYAH4-FlCTWMbeD7RdYuOAszEZ7XEAGCX_h9AyF6A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2025-01-02T15:22:37.876Z [INFO]: Server running on http://localhost:3333
+2025-01-02T15:22:41.435Z [INFO]: GET /auth/google
+2025-01-02T15:22:44.111Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtHDHsXMowQe5w_kFeUyyCy5i54Dc7GcC4KPx7HdDHb7Fvfn43k0adrdfKIBGjlaw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T15:23:29.349Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtHDHsXMowQe5w_kFeUyyCy5i54Dc7GcC4KPx7HdDHb7Fvfn43k0adrdfKIBGjlaw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T15:23:29.444Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrtHDHsXMowQe5w_kFeUyyCy5i54Dc7GcC4KPx7HdDHb7Fvfn43k0adrdfKIBGjlaw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none - Bad Request
+2025-01-02T15:23:33.440Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtSv66K7ekrnsL0Xx2X61V_Bk_Q32S0RG1ZeUsfnckLG7GqTyW6WxzvBuGZImHI7A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:13:04.938Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:15:44.062Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:15:46.550Z [INFO]: GET /auth/google
+2025-01-02T17:15:49.287Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruCP3CnRpcH4Vv24TyDNsPMZ9ViqmBJsooxbBHVimb64prYe0U4LUAjwP0eifV3NQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:16:31.593Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv-EwhAZE4I2mDBapavO7QsWlUc-m_4btOL5CixGSHqMQtdnbOh-TM_GBwa2ZJGKQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:16:37.976Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:16:45.953Z [INFO]: GET /auth/google
+2025-01-02T17:16:49.144Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrth4MxAae-pkVg_giJOtT4ZwqOsRQHdvL3xxUQKd8AJVn62mBc3LSi0Xigw-bqtxQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:16:49.429Z [INFO]: GET /favicon.ico
+2025-01-02T17:17:59.341Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:18:05.460Z [INFO]: GET /auth/google
+2025-01-02T17:18:07.856Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsug_GKdM6XIIT_KlXn98lBh1YpvcdolOURJz_XCpk2rJfX0jeymZw89Z1Cd9uX7g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:22:26.871Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:22:29.514Z [INFO]: GET /auth/google
+2025-01-02T17:22:36.905Z [INFO]: GET /auth/google
+2025-01-02T17:22:39.419Z [INFO]: GET /auth/google
+2025-01-02T17:22:49.683Z [INFO]: GET /auth/google
+2025-01-02T17:22:52.315Z [INFO]: GET /auth/google
+2025-01-02T17:23:35.167Z [INFO]: GET /auth/google
+2025-01-02T17:24:17.352Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:24:24.507Z [INFO]: GET /auth/google
+2025-01-02T17:25:03.143Z [INFO]: GET /auth/google
+2025-01-02T17:25:10.858Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:25:17.355Z [INFO]: GET /auth/google
+2025-01-02T17:25:20.205Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrust2NckB658tJ9jHs21rwMRExjZhiFDBsgpbT2JdsHTZVVvA3RFGjdDn7qLg-Y5w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:25:20.758Z [INFO]: GET /favicon.ico
+2025-01-02T17:26:36.359Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:26:41.278Z [INFO]: GET /auth/google
+2025-01-02T17:26:43.624Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruDuqij7Daz-k_Ceaorvq2Bhfagpw826lm1sNpbMFDIcx4apJm569Ch-OcJFCwPcw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:27:35.534Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:27:39.998Z [INFO]: GET /auth/google
+2025-01-02T17:27:44.279Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsjPLD0bwzbTkKySNbpCPafszoDwYGJZuSURUNpLZKjlAgPcQSu9w9kt5aGb8_pxg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:28:00.413Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:28:02.232Z [INFO]: GET /auth/google
+2025-01-02T17:28:04.469Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrub77BHVvjauq2m3haacK1iXnaamjrNfHquY2CjTNVgzyxm2AWPE27CM931IlNglA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:28:35.474Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:28:41.579Z [INFO]: GET /auth/google
+2025-01-02T17:28:43.950Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtLHxBKFDskvqxe8_AmV42TO0m9LPPt9CRuu6hncaFm4BuMXfOb2w9kJmE8mJCkzA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:30:14.674Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:30:20.005Z [INFO]: GET /auth/google
+2025-01-02T17:30:22.281Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsl5Y5iE8AjEJkjja9NFL87QO6vySQQIr_FqlgVzAre-XfSBWf_Aost08-sOpJc1w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:30:22.578Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsl5Y5iE8AjEJkjja9NFL87QO6vySQQIr_FqlgVzAre-XfSBWf_Aost08-sOpJc1w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none - tokens is not defined
+2025-01-02T17:30:45.821Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:30:49.303Z [INFO]: GET /auth/google
+2025-01-02T17:30:51.505Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsvFO4McZnBVTvNPa7CIPt_QGjB2O3zQwjbuP2wVHosARWHUBqmw3X3gs01tMQF0A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:30:51.770Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsvFO4McZnBVTvNPa7CIPt_QGjB2O3zQwjbuP2wVHosARWHUBqmw3X3gs01tMQF0A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - tokens is not defined
+2025-01-02T17:31:16.056Z [INFO]: GET /auth/google
+2025-01-02T17:31:18.289Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtN3O5uyFSJEe-_dMiEyjZfmofU6WniHDzPE8BgB2uvZOURZd9bivOx-iJ_3H5ggg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:31:18.527Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrtN3O5uyFSJEe-_dMiEyjZfmofU6WniHDzPE8BgB2uvZOURZd9bivOx-iJ_3H5ggg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - tokens is not defined
+2025-01-02T17:31:45.832Z [INFO]: GET /auth/google
+2025-01-02T17:31:48.029Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrunqu-q-KSLeqNVTAkzkqNiDWRebeWz47NkNmyVD1dVmOt6u6UgQCgdg2GSVXOZ0g&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:31:48.284Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrunqu-q-KSLeqNVTAkzkqNiDWRebeWz47NkNmyVD1dVmOt6u6UgQCgdg2GSVXOZ0g&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - tokens is not defined
+2025-01-02T17:31:56.630Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:32:02.515Z [INFO]: GET /auth/google
+2025-01-02T17:32:05.042Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrskPt1C81hMmtLR6E4XnnqWyo93R0KEfoW1FBfPV76F5ZacSIkFywsydSzdqEQJyA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:32:05.331Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrskPt1C81hMmtLR6E4XnnqWyo93R0KEfoW1FBfPV76F5ZacSIkFywsydSzdqEQJyA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2025-01-02T17:33:10.987Z [INFO]: GET /
+2025-01-02T17:33:33.358Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:33:43.325Z [INFO]: GET /auth/apple
+2025-01-02T17:33:51.725Z [INFO]: GET /auth/google
+2025-01-02T17:33:54.398Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt5VZ5k_DykfG-lbEk86cYXGKLdKOsSdhh8WvTf8ck9oYcPb6QxgSd8LKSZnWYUYg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:33:54.709Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrt5VZ5k_DykfG-lbEk86cYXGKLdKOsSdhh8WvTf8ck9oYcPb6QxgSd8LKSZnWYUYg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2025-01-02T17:35:50.277Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:36:07.998Z [INFO]: GET /auth/google
+2025-01-02T17:36:10.765Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsKp52QFnEN8SAAtaOiOTHLOFBqcAKptZyfp4rACvcvXpZ9Z57mV2fzGoRiFgZjsg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:36:11.314Z [INFO]: GET /favicon.ico
+2025-01-02T17:38:48.026Z [INFO]: GET /auth/google
+2025-01-02T17:38:50.482Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtrl7Bse2K00DO9BOxgplPuvwu2Yz5LXsYDApYh9b_-5LBIbX2ojHKabSBptZ4X6Q&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:38:51.012Z [INFO]: GET /favicon.ico
+2025-01-02T17:38:58.631Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:39:04.072Z [INFO]: GET /auth/google
+2025-01-02T17:39:06.715Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruHsMoM_3zh2v0bs_27XO48AbiPk-dKn03b2H4zs99WEhPeHBoNOs743qryasm9Vg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:40:03.445Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:40:09.776Z [INFO]: GET /auth/google
+2025-01-02T17:40:12.650Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruhd9uqFIOSGzQi7xL0npr-Nx_A-He3nrf58j8zr8xjmYUBhycTChrPUXUBEt0EAQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:41:24.410Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtZbPs92iRdsn8jL6uhfvTPz_J4ZO6Hpfjd-qcm5qjLmPjAEDdJZTha-B77pbbkKQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:42:50.852Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:42:53.003Z [INFO]: GET /auth/google
+2025-01-02T17:42:55.636Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsKl-_-UVKGvl9foJ79W8JKmAj6Mr30sG7Kh0spaNej8kYRtmcadS-SEdYogaMAYw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:42:55.952Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsKl-_-UVKGvl9foJ79W8JKmAj6Mr30sG7Kh0spaNej8kYRtmcadS-SEdYogaMAYw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none - Cannot set headers after they are sent to the client
+2025-01-02T17:42:56.382Z [INFO]: GET /favicon.ico
+2025-01-02T17:43:38.689Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:43:42.031Z [INFO]: GET /auth/google
+2025-01-02T17:43:44.543Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtl5THhnbA6BH_9g_8P7wRyvGeGSrKGNUcl3dxxiDR5RNzeZ7w8BBsvMAatNKxiNQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:44:34.482Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsMckRif2h1X45KaIzFJU6wS1GEpvcXwxSAWguccopYcBauSrrLl_LMR1hIsEufqA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=2&hd=lmzdesigns.com&prompt=consent
+2025-01-02T17:45:41.415Z [INFO]: GET /auth/google
+2025-01-02T17:45:43.553Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRru2IjEIenD7Lyaqy1PlhOa49sz3HxR_CMI-YwBkq9FhTfDi8fRXgm3Sb1eFscc29w&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:45:52.854Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:45:56.777Z [INFO]: GET /auth/google
+2025-01-02T17:45:59.102Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrupkkcTtrVMhm2HwhS5fi8wCR0ZSFPz5Q6_fsu_UTlaJKwNgc3d-sfBCGfLHP2neQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:46:26.437Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:46:31.588Z [INFO]: GET /auth/google
+2025-01-02T17:46:34.263Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv78JB9shZM_8cxGxYk8WxjJLTUKf2IQZN67XHzXZKL0T1GC6diu4H58WBFr7SBAw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:46:34.520Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrv78JB9shZM_8cxGxYk8WxjJLTUKf2IQZN67XHzXZKL0T1GC6diu4H58WBFr7SBAw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - req.json is not a function
+2025-01-02T17:46:53.727Z [INFO]: GET /auth/google
+2025-01-02T17:46:55.866Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtNxEqiWPKLq98tghbhrZeESQdzY_HUkP51ClOJjwssG6PCifFLqEXX-yYgfGo-3g&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:46:56.101Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrtNxEqiWPKLq98tghbhrZeESQdzY_HUkP51ClOJjwssG6PCifFLqEXX-yYgfGo-3g&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - req.json is not a function
+2025-01-02T17:49:03.052Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:49:16.997Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:49:23.166Z [INFO]: GET /auth/google
+2025-01-02T17:49:25.915Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsrVGT-KX_aH1aZF2D0zJ7go-5sawxalc80OHeohwkJHz3iQ-5WIujkIDz0MICGMw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T17:49:26.195Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsrVGT-KX_aH1aZF2D0zJ7go-5sawxalc80OHeohwkJHz3iQ-5WIujkIDz0MICGMw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none - req.json is not a function
+2025-01-02T17:49:33.767Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:49:36.638Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsjz0toITeVkSrQmTcgDjaxNg5h0xv0jF-IEDeJZi4NczmtKFlAhnnNfHHWQ5r6wg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:50:08.551Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:50:15.726Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:50:18.481Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:50:22.780Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:50:31.272Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:50:40.828Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsjz0toITeVkSrQmTcgDjaxNg5h0xv0jF-IEDeJZi4NczmtKFlAhnnNfHHWQ5r6wg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:50:41.357Z [ERROR]: GET /auth/google/callback?code=4%2F0AanRRrsjz0toITeVkSrQmTcgDjaxNg5h0xv0jF-IEDeJZi4NczmtKFlAhnnNfHHWQ5r6wg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Bad Request
+2025-01-02T17:50:46.758Z [INFO]: GET /auth/google
+2025-01-02T17:50:49.178Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtNR7S1LkZx7aMlnLiDxNaa567BNyXSeUjSZtQQyvlAf-RxUk1ihBdx7JENOerv-Q&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:50:57.776Z [INFO]: GET /auth/google
+2025-01-02T17:51:01.650Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsNJ-zUOr69w8qvb9RdSAz730NbVj-Dk50_myQAY2xuqMA2Z4fQBcHBvVpvMmAxAg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:51:34.896Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsJcAc0N2F-e8nGTo9xDyBabn_Zk7V66sAeYqBBRwH1_yTFZRaGztQlM2naQz5BwQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:53:32.875Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:54:16.605Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:54:39.207Z [INFO]: GET /auth/google
+2025-01-02T17:54:41.306Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtxlYFYu_QdtSKtdO42pay3NQvDgMr51ZErKKqK1e-ax7HRBwlDBOkCoxsUG5EKjg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T17:55:57.314Z [INFO]: GET /auth/google
+2025-01-02T17:55:59.543Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruCu4WeB1wrMOhW6kM7GB9jAey47i3-P69naVRoBlmmiO51bEtH1styJLsHDLsBlA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:57:17.390Z [INFO]: GET /auth/google
+2025-01-02T17:57:20.444Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRru6TLEb0kcQdg8SOMUgLzDruf4P7uf0vCE6yLyhWUvl2tCQY58hIvG6YLDzkhKcgQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T17:58:43.064Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:58:59.200Z [INFO]: Server running on http://localhost:3333
+2025-01-02T17:59:43.943Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:00:19.967Z [INFO]: GET /auth/google
+2025-01-02T18:00:22.520Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtQ9a7YEopY-lqrqulM8i0yBjnhj0RV0o44C1CNGNmd4Pkzvv3S-oNlqdLu3dfPJw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T18:01:17.586Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:01:49.205Z [INFO]: GET /auth/google
+2025-01-02T18:01:51.456Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtWnz0PCaHBB6Z4LO4IzKwXvYQNhFGFmJ5_v_QcUBR8kV45yfk4KAU8EJX-7DzgxA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T18:05:33.934Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt40jHlfhrDqfpDcP5opkcTncfbwLTdIlYaIzHgimZPw44U4PRIZiJnx7FQBhOKMQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T18:06:58.301Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtVKszwWHvR6QMUoFE-jXyEsEbWQEs4jcby-JNXUU3DdZ_b9hEeFowWjn5NW6EzpQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T18:07:25.278Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrv3tlVakh5XefJolIi7qQ4K6AqOVuF754pCcaby1aw-b83jb6uZ0hyX-Sk25eihhg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:14:37.493Z [INFO]: GET /auth/google
+2025-01-02T18:14:39.770Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRruRdG0edswWcq5v2g-fP-O3x_MvHdALw02s85xtdQtmYfkaWJWv_GWrbDsp4yUrNg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:14:45.629Z [INFO]: GET /auth/google
+2025-01-02T18:14:47.855Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvkLpxBFV50csxGwUsb4xwvMyn0ovSGHLvBpHANTxldnKpfDWiG1GLlo_6N_kAvRw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T18:18:31.192Z [INFO]: GET /auth/google
+2025-01-02T18:18:33.405Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsN0BEQcTI38q-Cm8ReGhBYCFx_F_-LVG6pDOJ5xsZ1E5u3mj4OfMAPvwv7ZqVLYw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:20:39.244Z [INFO]: OPTIONS /api/login
+2025-01-02T18:24:11.521Z [INFO]: GET /auth/google
+2025-01-02T18:24:14.036Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrsrdW00eagHpdpDCFEpQHRlQkuCfFgbe-hbSVCjCP8vovJUxRhUX77jFT-pcD8CSQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:24:24.007Z [INFO]: GET /auth/google
+2025-01-02T18:24:26.328Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtj-9v8L6Jn-vz_HkvtpBjw52x2D_yHkP2Xk7D-JUfw7m5-hBIr0T8lPmqDpkx9Tw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none
+2025-01-02T18:24:53.832Z [INFO]: GET /auth/google
+2025-01-02T18:24:56.726Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrubVMzKksZrjlAw-2zeT5PQs708ZIxzGwHu5GSfgJVzUKVegzBoLWaCzLzjN4S_VQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:25:51.734Z [INFO]: GET /auth/google
+2025-01-02T18:25:57.131Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrtOC6fUHM18FTjmxn7twrDbDRat1qesf8WItx27_ha9bTJ5vidjHnqNITIrcBxLqQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:26:12.621Z [INFO]: GET /auth/google
+2025-01-02T18:26:15.141Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvouKTJfih_fqFJqv-Q6x4490K7mi8OZmzz0AnNzU-evYPXZPFFCmjfVC3U8FWX6g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:29:09.093Z [INFO]: GET /auth/google
+2025-01-02T18:29:11.871Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt0BNQX0JH9SUYmk8GeLKAh6tjtUF8HGgIpJJ4XUs4Mh6Y56jWd8Mx4BfOy2OjeEA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:34:24.920Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:34:48.222Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:34:52.884Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:35:55.530Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:36:11.832Z [INFO]: GET /auth/google
+2025-01-02T18:36:14.379Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvVk7UAIWPGwJe7smR1Xg4MN5bKbSIov6JdDZd2piQDE7vTw3xtdn_e-2r6A4srrQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+2025-01-02T18:38:39.823Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:39:30.574Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:39:39.818Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:41:03.552Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:41:13.136Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:42:32.087Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:44:03.050Z [INFO]: POST /api/saveText
+2025-01-02T18:44:39.939Z [INFO]: POST /api/saveText
+2025-01-02T18:45:04.059Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:45:06.511Z [INFO]: POST /api/saveText
+2025-01-02T18:46:51.657Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:47:14.817Z [INFO]: POST /api/saveText
+2025-01-02T18:47:24.795Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:47:26.156Z [INFO]: POST /api/saveText
+2025-01-02T18:48:31.950Z [INFO]: POST /api/saveText
+2025-01-02T18:51:08.989Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:51:14.004Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:52:17.312Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:52:50.007Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:53:38.694Z [INFO]: POST /api/saveText
+2025-01-02T18:54:44.681Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:54:47.220Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:55:00.593Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:55:06.357Z [INFO]: POST /api/saveText
+2025-01-02T18:55:22.640Z [INFO]: POST /api/saveText
+2025-01-02T18:58:44.142Z [INFO]: Server running on http://localhost:3333
+2025-01-02T18:58:51.937Z [INFO]: GET /auth/google
+2025-01-02T18:58:54.754Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrt7IqGEjvnbhB4rkVn33MeozgrizKv1hbXxom3pd3FZxZSk2bc6omyXSkow2zq2dw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T18:59:03.371Z [INFO]: GET /auth/google
+2025-01-02T18:59:05.534Z [INFO]: GET /auth/google/callback?code=4%2F0AanRRrvjnwBfhc2H2WD8gR0ecHlDsuielNnx-Ai5LZ1aMSINv9cusIEqGYH8fGcFLdfuvw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none
+2025-01-02T18:59:23.528Z [INFO]: POST /api/saveText
+2025-01-03T18:44:20.457Z [INFO]: Server running on http://localhost:3333
+2025-01-03T18:45:24.298Z [INFO]: Server running on http://localhost:3333
+2025-01-03T18:45:51.733Z [INFO]: Server running on http://localhost:3333
+2025-01-03T18:46:39.948Z [INFO]: GET /api/entries
+2025-01-03T18:46:54.140Z [INFO]: GET /api/entries
+2025-01-03T18:47:26.160Z [INFO]: POST /api/saveEntry
+2025-01-03T18:48:47.980Z [INFO]: Server running on http://localhost:3333
+2025-01-03T18:48:56.722Z [INFO]: GET /api/entries
+2025-01-03T18:49:04.704Z [INFO]: POST /api/saveEntry
