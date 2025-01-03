@@ -7,11 +7,6 @@ require("dotenv").config();
 
 
 
-
-console.log("Google Strategy Configuration:");
-console.log("Client ID:", process.env.GOOGLE_CLIENT_ID || "Missing");
-console.log("Client Secret:", process.env.GOOGLE_CLIENT_SECRET || "Missing");
-console.log("Callback URL:", "/auth/google/callback");
 passport.use(
     new GoogleStrategy(
         {
